@@ -15,9 +15,8 @@ public class level1 {
                 break;
             }
 
-            switch (choice) {
-
-                // Q1
+            switch(choice) {
+                 // Q1
                 case 1:
                     int[] ages = new int[10];
                     for (int i = 0; i < ages.length; i++) {
@@ -36,6 +35,7 @@ public class level1 {
                     break;
 
                 // Q2
+
                 case 2:
                     int[] nums = new int[5];
                     for (int i = 0; i < nums.length; i++) {

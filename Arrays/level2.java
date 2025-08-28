@@ -15,7 +15,7 @@ public class level2 {
                 break;
             }
 
-            switch (choice) {
+            switch(choice) {
                 // Q1 Bonus Calculation
                 case 1:
                     double[] salary = new double[10];
