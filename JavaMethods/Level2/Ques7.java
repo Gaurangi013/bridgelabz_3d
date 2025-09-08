@@ -1,3 +1,5 @@
+package JavaMethods.Level2;
+
 import java.util.Scanner;
 
 public class Ques7 {

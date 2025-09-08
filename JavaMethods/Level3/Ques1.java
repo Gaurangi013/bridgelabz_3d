@@ -1,3 +1,5 @@
+package JavaMethods.Level3;
+
 import java.util.Random;
 
 class Ques1 {

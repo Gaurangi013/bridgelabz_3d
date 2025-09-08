@@ -27,5 +27,5 @@ public class Ques1 {
         return product;
     }
 
-    public static double sumSquareFactors(int[] factors) {
-        doub
+}
+       

@@ -1,3 +1,4 @@
+package strings.level3;
 import java.util.Scanner;
 
 public class ques10 {
